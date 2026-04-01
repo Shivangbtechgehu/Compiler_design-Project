@@ -1,0 +1,3 @@
+Create integer x.
+Set x to 10.
+Print x.
